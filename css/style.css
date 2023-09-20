@@ -1,0 +1,33 @@
+*{margin: 0px;
+padding: 0px;
+}
+
+.main-container{
+    display: flex;
+}
+
+.side-menu{
+    width: 25vw;
+    background: #333333;
+    height: 100vh;
+}
+.custom-input{
+    display: block;
+    margin: 10px;
+    width: 80%;
+}
+
+.inner-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.inner-container .movie{
+    width: 32%;
+}
+
+.inner-container img{
+    width: 100%;
+    padding: 10%;
+}
