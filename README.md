@@ -23,4 +23,4 @@ This is a Vue.js project built with TypeScript, using Vite as the build tool. Th
 
 4. Run the development server:
    ```sh
-npm run dev
+   npm run dev
