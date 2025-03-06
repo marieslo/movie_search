@@ -1,13 +1,9 @@
 # Movie Search
 
-This is a Vue.js project built with TypeScript, using Vite as the build tool. The app allows users to search for movies and series using the OMDB API, displaying the results in a grid layout with movie posters and titles.
+This is a Vue.js project built with TypeScript, using Vite as the build tool. The app allows users to search for movies and series using the [OMDB API](https://www.omdbapi.com/), displaying the results in a grid layout with movie posters and titles.
 
 <img width="400" alt="movie_search" src="https://github.com/user-attachments/assets/8abbb694-3440-4a1f-9b8f-81b986a69d17" />
 
-## Features
-
-- Search for movies or series
-- Display results in a responsive grid
 
 ## Installation
 
